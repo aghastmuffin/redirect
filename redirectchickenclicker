@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<title> Redirect to another page (safe redirect) </title>
+<script>
+alert("Redirect to: AGHASTMUFFIN.GITHUB.IO/CHICKENCLICKER (press ok to confirm)")
+</scirpt>
+<script>
+window.location.replace("aghastmuffin.github.io/chickenclicker")
+</script>
